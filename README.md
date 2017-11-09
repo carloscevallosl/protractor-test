@@ -16,4 +16,4 @@ In angular-registration-login-example folder there is the angular app to be test
 
 On a command line you should go to protractor_test folder. 
 Now run the test with: 
-protractor conf.js# protractor-test
+protractor conf.js
